@@ -1,3 +1,4 @@
 # Data Science Case Study
 
-My work Notebooks in Applied Data Science Capstone course
+This repository includes all my notebooks in Applied Data Science Capstone course, as part of IBM Data Science specialization.
+All notebooks are in correct flow and have fully details inside. 
